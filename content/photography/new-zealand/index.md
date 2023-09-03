@@ -7,4 +7,4 @@ tags:
   - new zealand
 external_link: ""
 ---
-{{< gallery album="new-zealand" resize_options="250x250">}}
+{{< gallery album="new-zealand" resize_options="250x250" >}}
