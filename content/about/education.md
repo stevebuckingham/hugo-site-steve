@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: BSc Economis and Politics
     company: University of York
-    company_logo: org-x
     location: York, United Kingdom
     date_start: '1994-10-01'
     date_end: '1998-06-30'

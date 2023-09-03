@@ -26,7 +26,7 @@ experience:
     company: Taxfix
     company_url: 'http://taxfix.de'
     company_logo: taxfix
-    location: Berlin
+    location: Berlin, Germany
     date_start: '2023-10-01'
     date_end: ''
     description: |2-
@@ -39,10 +39,45 @@ experience:
     company: Contentful
     company_url: 'https://contentful.com'
     company_logo: contentful
-    location: California
+    location: Berlin, Germany
     date_start: '2018-08-01'
     date_end: '2022-09-30'
     description: Led the data teams at Contentful as we grew from $10M ARR to over $100M.
+
+  - title: Group Head of Data Architecture
+    company: Annalect
+    company_url: 'https://contentful.com'
+    company_logo: annalect.png
+    location: London, United Kingdom
+    date_start: '2016-11-01'
+    date_end: '2018-08-31'
+    description: Led the development of Annalec's data science and analytics platform in the UK.
+
+  - title: CRM Development Manager
+    company: BBC Worldwide
+    company_url: 'https://contentful.com'
+    company_logo: bbc
+    location: London, United Kingdom
+    date_start: '2014-11-01'
+    date_end: '2016-10-31'
+    description: Responsible for development of CRM and Single Customer View capabilities to support BBC Worldwide.
+
+  - title: Solution Architect
+    company: Sky IQ
+    company_logo: bbc
+    location: St. Albans, United Kingdom
+    date_start: '2011-12-01'
+    date_end: '2014-10-31'
+    description: Designed Single Customer View, campaign and viewing data solutions with Sky and for external clients.
+
+  - title: Head of Campaign Technology
+    company: The Labour Party
+    company_url: 'https://contentful.com'
+    company_logo: labour.png
+    location: London, United Kingdom
+    date_start: '2007-07-01'
+    date_end: '2011-11-30'
+    description: Led campaign technology at The Labour Party including Membership Data and Voter Database.
 
 design:
   columns: '1'
