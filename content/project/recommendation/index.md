@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Data
+summary: Post about data and analytics
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - data
+  - analysis
+date: 2023-09-03
 ---
