@@ -7,6 +7,5 @@ tags:
 external_link: ""
 image:
   filename: photography_cover.jpg
-content:
-  {{< list_children >}}
 ---
+{{< list_children >}}
