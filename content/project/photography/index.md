@@ -8,3 +8,4 @@ external_link: ""
 image:
   filename: photography_cover.jpg
 ---
+{{< list_children >}}
