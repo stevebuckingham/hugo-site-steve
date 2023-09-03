@@ -1,8 +1,10 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
-tags:
-  - CV
+title: Photography
 date: 2022-01-01
-external_link: http://github.com
+summary: Collections of my photography.
+tags:
+  - photography
+external_link: ""
+image:
+  filename: photography_cover.jpg
 ---
