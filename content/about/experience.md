@@ -47,7 +47,7 @@ experience:
   - title: Group Head of Data Architecture
     company: Annalect
     company_url: 'https://contentful.com'
-    company_logo: annalect.png
+    company_logo: annalect
     location: London, United Kingdom
     date_start: '2016-11-01'
     date_end: '2018-08-31'
@@ -73,7 +73,7 @@ experience:
   - title: Head of Campaign Technology
     company: The Labour Party
     company_url: 'https://contentful.com'
-    company_logo: labour.png
+    company_logo: labour
     location: London, United Kingdom
     date_start: '2007-07-01'
     date_end: '2011-11-30'
