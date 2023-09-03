@@ -64,7 +64,7 @@ experience:
 
   - title: Solution Architect
     company: Sky IQ
-    company_logo: bbc
+    company_logo: sky
     location: St. Albans, United Kingdom
     date_start: '2011-12-01'
     date_end: '2014-10-31'
