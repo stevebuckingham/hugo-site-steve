@@ -10,3 +10,9 @@ main:
   - name: About Me
     url: about/
     weight: 20
+  - name: Photography
+    url: about/
+    weight: 20
+  - name: Data
+    url: about/
+    weight: 20
