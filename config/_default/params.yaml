@@ -13,6 +13,10 @@ appearance:
 
 # SEO
 
+galleriesdeluxe:
+  sassvars:
+    color_background: "#1d1e2c"
+
 marketing:
   seo:
     site_type: Person
@@ -43,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Steve Buckingham. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,7 +57,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan, 2006'
   time_format: '3:04 PM'
 
 # Site features
